@@ -6,6 +6,8 @@ public class Sample {
 		// TODO Auto-generated constructor stub
 		int a = 10;
 		System.out.println(a);
+		String Str = "Hello World";
+		System.out.println(Str);
 	}
 
 	public static void main(String[] args) {
